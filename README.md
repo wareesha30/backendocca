@@ -1,7 +1,6 @@
 # code
 
-A new Flutter project.
-
+Flutter project for creating webview app
 ## Getting Started
 
 This project is a starting point for a Flutter application.
